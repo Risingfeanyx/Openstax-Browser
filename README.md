@@ -16,6 +16,5 @@ The purpose of this script is a direct downloader for a majority of the books fo
 
 <a href="https://support.apple.com/en-us/HT208309">Requires iOS 12</a> and the <a href="https://apps.apple.com/us/app/shortcuts/id915249334">iOS Shortcuts app</a>
 
-<a href="https://support.apple.com/en-us/HT210628">Untrusted Shortcuts</a>
-
-You'll want to enable  in order to use homebrew shortcuts
+You'll want to enable <a href="https://support.apple.com/en-us/HT210628">Untrusted Shortcuts</a> in order to use this
+  
