@@ -1,16 +1,9 @@
 #!/bin/bash
-# A menu driven shell script sample template 
-## ----------------------------------
-# Step #1: Define variables
-# ----------------------------------
 EDITOR=nano
 PASSWD=/etc/passwd
 RED='\033[0;41;30m'
 STD='\033[0;0;39m'
- 
-# ----------------------------------
-# Step #2: User defined function
-# ----------------------------------
+
 pause(){
   read -p "Press [Enter] key to continue..." fackEnterKey
 }
@@ -210,10 +203,6 @@ show_menus() {
 	echo "33. University Physics Volume 2"
 	echo "34. University Physics Volume 3"
 }
-# read input from the keyboard and take a action
-# invoke the one() when the user select 1 from the menu option.
-# invoke the two() when the user select 2 from the menu option.
-# Exit when user the user select 3 form the menu option.
 read_options(){
 	local choice
 	read -p "Enter choice [ 1 - 35] " choice
