@@ -1,6 +1,7 @@
 #!/bin/bash
+cd
 clear
-echo "Currently downloading the following books!"
+echo "Currently downloading the following books to the OpenStax folder!"
 mkdir OpenStax
 cd OpenStax
 curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-s -OP_NpLRuqX.pdf
