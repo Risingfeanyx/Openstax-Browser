@@ -1,5 +1,5 @@
 <h1>
-An Unofficial bash downloader for <a href="https://openstax.org/about"target="_blank">OpenStax</a> books
+An Unofficial bash downloader for <a href="https://openstax.org/about" target="_blank">OpenStax</a> books
 </h1>
 
 Openstax "publish high-quality, peer-reviewed, openly licensed college textbooks that are absolutely free online and low cost in print"
