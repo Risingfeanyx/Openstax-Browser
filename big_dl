@@ -67,5 +67,6 @@ curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/U
 echo "Uni Physics Vol 2"
 curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-s -OP.pdf
 echo "Uni Physics Vol 3"
-cd
+clear
 echo Just downloaded $(ls *.pdf) in $PWD
+cd
