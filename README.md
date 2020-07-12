@@ -18,3 +18,4 @@ The purpose of this script is a direct downloader for a majority of the books fo
 
 You'll want to enable <a href="https://support.apple.com/en-us/HT210628">Untrusted Shortcuts</a> in order to use this
   
+![](foo.gif)
