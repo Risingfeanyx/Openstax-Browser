@@ -160,6 +160,10 @@ thirtyfour(){
 	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-OP.pdf
         pause
 }
+thirtyfive(){
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/openstax_cli/master/big_dl)" 
+        pause
+}
 
  
 # function to display menus
@@ -202,6 +206,7 @@ show_menus() {
 	echo "32. University Physics Volume 1"
 	echo "33. University Physics Volume 2"
 	echo "34. University Physics Volume 3"
+	echo "35. Download all of them!"
 }
 read_options(){
 	local choice
