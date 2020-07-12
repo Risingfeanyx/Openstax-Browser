@@ -1,0 +1,71 @@
+#!/bin/bash
+clear
+echo "Currently downloading the following books!"
+mkdir OpenStax
+cd OpenStax
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-s -OP_NpLRuqX.pdf
+echo "Algebra and Trigonometry"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AnatomyandPhysiology-s -OP_xxKIcSo.pdf
+echo "American Government"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Astronomy-s -OP_oV0J80E.pdf 
+echo "Astronomy"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology2e-WEB_eUNkk2q.pdf 
+echo "Biology"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/BusinessEthics-s -OP_BQNN2qf.pdf
+echo "Business Ethics"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf
+echo "Calculus Vol 1"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-s -OP_esPpXTB.pdf 
+echo "Calculus Vol 2"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-s -OP_n7Nj74c.pdf
+echo "Calculus Vol 3"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Chemistry2e-s -OP_ZIUdkjH.pdf 
+echo "Chemistry 2"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-s -OP_T2wT7wj.pdf
+echo "Chemistry 1"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CollegeAlgebra-s -OP_B7PUoNW.pdf
+echo "College Algebra"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Physics-WEB.pdf 
+echo "College Physics"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Success_web_slqpdO2.pdf
+echo "College Success"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Economics2e-s -OP_I2ne43X.pdf
+echo "Economics"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Entrepreneurship-WEB.pdf
+echo "Entrepreneurship"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/FinancialAccounting-s -OP_dwsQeqn.pdf 
+echo "Finanical Accounting"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntermediateAlgebra2e-WEB.pdf
+echo "Intermediate Algebra"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToBusiness-s -OP_gPQqj30.pdf 
+echo "Intro to Business"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToSociology2e-s -OP_D8IepwZ.pdf 
+echo "Intro to Socialogy"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-s -OP_LXn0jei.pdf 
+echo "Intro to Stats"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Macroeconomics2e-s -OP.pdf 
+echo "Macroeconomics"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ManagerialAccounting-s -OP_os574CR.pdf
+echo "Managerial Accounting"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microbiology-s -OP.pdf 
+echo "Microbiology"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microeconomics2e-s -OP_603oHEs.pdf 
+echo "Microeconomics"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/OrganizationalBehavior-s -OP.pdf 
+echo "Organizational Behavior"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf 
+echo "Pre Algebra"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Precalculus-s -OP_mbNC8an.pdf 
+echo "Pre Calculus"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Psychology-s -OP_F4YYkDr.pdf 
+echo "Psychology"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/USHistory-s -OP_IdjNctE.pdf 
+echo "US History"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume1-s -OP_gUzvYbP.pdf
+echo "Uni Physics Vol 1"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume2-s -OP.pdf
+echo "Uni Physics Vol 2"
+curl -s -O https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-s -OP.pdf
+echo "Uni Physics Vol 3"
+cd
+echo Just downloaded $(ls *.pdf) in $PWD
