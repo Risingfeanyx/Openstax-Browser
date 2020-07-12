@@ -9,3 +9,4 @@ The purpose of this script is a direct downloader for a majority of the books fo
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/openstax_cli/master/main.sh)" 
 ```
+<img src="image.png">
