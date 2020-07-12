@@ -164,10 +164,11 @@ thirtyfour(){
  
 # function to display menus
 show_menus() {
-	clear
-	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"	
+	clear`
+	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"	
 	echo " Select an OpenStax Book"
-	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"
+	echo "https://openstax.org/subjects"
+	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo "1. Algebra and Trigonometry"
 	echo "2. American Government"
 	echo "3. Anatomy and Physiology"
