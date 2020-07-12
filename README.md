@@ -12,6 +12,10 @@ The purpose of this script is a direct downloader for a majority of the books fo
 <img src="image.png">
 
 
-<a href="https://www.icloud.com/shortcuts/1268f9b672f84f09b6cdb62d825da4c6">iOS Shortcuts version</a>
+<a href="https://www.icloud.com/shortcuts/9b6d584ff02d41768726429a8ed1e1bb">iOS Shortcuts version</a>
 
 <a href="https://support.apple.com/en-us/HT208309">Requires iOS 12</a> and the <a href="https://apps.apple.com/us/app/shortcuts/id915249334">iOS Shortcuts app</a>
+
+<a href="https://support.apple.com/en-us/HT210628">Untrusted Shortcuts</a>
+
+You'll want to enable  in order to use homebrew shortcuts
