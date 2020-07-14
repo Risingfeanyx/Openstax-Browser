@@ -20,4 +20,4 @@ You'll want to enable <a href="https://support.apple.com/en-us/HT210628">Untrust
   
 ![](foo.gif)
 
-Tasker Android APK coming soon 
+Tasker Android APK in the works
