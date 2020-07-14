@@ -12,12 +12,14 @@ The purpose of this script is a direct downloader for a majority of the books fo
 <img src="image.png">
 
 
+<h2>
 <a href="https://www.icloud.com/shortcuts/9b6d584ff02d41768726429a8ed1e1bb">iOS Shortcuts version</a>
-
+</h2>
 <a href="https://support.apple.com/en-us/HT208309">Requires iOS 12</a> and the <a href="https://apps.apple.com/us/app/shortcuts/id915249334">iOS Shortcuts app</a>
 
 You'll want to enable <a href="https://support.apple.com/en-us/HT210628">Untrusted Shortcuts</a> in order to use this
   
 ![](foo.gif)
 
-Tasker Android APK in the works
+
+Tasker <a href="https://github.com/Risingfeanyx/Openstax-Browser/raw/master/OpenStax_Downloader.8.apk" target="_blank">APK</a> in the works
