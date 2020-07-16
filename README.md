@@ -25,6 +25,5 @@ You'll want to enable <a href="https://support.apple.com/en-us/HT210628">Untrust
 <h2>
 Tasker based <a href="https://github.com/Risingfeanyx/Openstax-Browser/blob/master/OpenStax_Downloader.apk" target="_blank">APK</a> finished, going to give it some prettier icons soon ™
 </h2>
-![](Android_Menu.png)
 
 ![](Android_Menu.png)
