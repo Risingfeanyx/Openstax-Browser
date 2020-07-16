@@ -27,3 +27,4 @@ Tasker based <a href="https://github.com/Risingfeanyx/Openstax-Browser/blob/mast
 </h2>
 ![](Android_Menu.png)
 
+![](Android_Menu.png)
