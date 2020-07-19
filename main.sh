@@ -9,159 +9,158 @@ pause(){
 }
 
 one(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-OP_NpLRuqX.pdf
-
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-OP_NpLRuqX.pdf ; open AlgebraAndTrigonometry-OP_NpLRuqX.pdf
         pause
 }
  
 two(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AmericanGovernment2e-OP_WpMZUKx.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AmericanGovernment2e-OP_WpMZUKx.pdf ; open AmericanGovernment2e-OP_WpMZUKx.pdf
         pause
 }
 three(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AnatomyandPhysiology-OP_xxKIcSo.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AnatomyandPhysiology-OP_xxKIcSo.pdf ; open AnatomyandPhysiology-OP_xxKIcSo.pdf
         pause
 }
 
 four(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Astronomy-OP_oV0J80E.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Astronomy-OP_oV0J80E.pdf ; open Astronomy-OP_oV0J80E.pdf
         pause
 }
 
 five(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology2e-WEB_eUNkk2q.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology2e-WEB_eUNkk2q.pdf ; open Biology2e-WEB_eUNkk2q.pdf
 
         pause
 }
 
 six(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/BusinessEthics-OP_BQNN2qf.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/BusinessEthics-OP_BQNN2qf.pdf ; open BusinessEthics-OP_BQNN2qf.pdf
         pause
 }
 
 seven(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Calculus_Volume_1_-_WEB.pdf ; open Calculus_Volume_1_-_WEB.pdf 
         pause
 }
 
 eight(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume2-OP_esPpXTB.pdf ; open CalculusVolume2-OP_esPpXTB.pdf
         pause
 }
 
 nine(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume3-OP_n7Nj74c.pdf ; open CalculusVolume3-OP_n7Nj74c.pdf 
         pause
 }
 
 ten(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Chemistry2e-OP_ZIUdkjH.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Chemistry2e-OP_ZIUdkjH.pdf ; open Chemistry2e-OP_ZIUdkjH.pdf 
         pause
 }
 
 eleven(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-OP_T2wT7wj.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-OP_T2wT7wj.pdf ; open ChemistryAtomsFirst2e-OP_T2wT7wj.pdf
         pause
 }
 
 twelve(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CollegeAlgebra-OP_B7PUoNW.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CollegeAlgebra-OP_B7PUoNW.pdf ; open CollegeAlgebra-OP_B7PUoNW.pdf
         pause
 }
 
 thirteen(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Physics-WEB.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Physics-WEB.pdf ; open College_Physics-WEB.pdf 
         pause
 }
 
 fourteen(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Success_web_slqpdO2.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/College_Success_web_slqpdO2.pdf ; open College_Success_web_slqpdO2.pdf
         pause
 }
 fifteen(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Economics2e-OP_I2ne43X.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Economics2e-OP_I2ne43X.pdf ; open Economics2e-OP_I2ne43X.pdf 
         pause
 }
 sixteen(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Entrepreneurship-WEB.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Entrepreneurship-WEB.pdf ; open Entrepreneurship-WEB.pdf
         pause
 }
 seventeen(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/FinancialAccounting-OP_dwsQeqn.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/FinancialAccounting-OP_dwsQeqn.pdf ; open FinancialAccounting-OP_dwsQeqn.pdf 
         pause
 }
 eighteen(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntermediateAlgebra2e-WEB.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntermediateAlgebra2e-WEB.pdf ; open IntermediateAlgebra2e-WEB.pdf
         pause
 }
 nineteen(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToBusiness-OP_gPQqj30.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToBusiness-OP_gPQqj30.pdf ; open IntroductionToBusiness-OP_gPQqj30.pdf
         pause
 }
 twenty(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToSociology2e-OP_D8IepwZ.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductionToSociology2e-OP_D8IepwZ.pdf ; open IntroductionToSociology2e-OP_D8IepwZ.pdf
         pause
 }
 twentyone(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP_LXn0jei.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP_LXn0jei.pdf ; open IntroductoryStatistics-OP_LXn0jei.pdf
         pause
 }
 twentytwo(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Macroeconomics2e-OP.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Macroeconomics2e-OP.pdf ; open Macroeconomics2e-OP.pdf
         pause
 }
 twentythree(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ManagerialAccounting-OP_os574CR.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ManagerialAccounting-OP_os574CR.pdf ; open ManagerialAccounting-OP_os574CR.pdf
         pause
 }
 twentyfour(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microbiology-OP.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microbiology-OP.pdf ; open Microbiology-OP.pdf
         pause
 }
 
 twentyfive(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microeconomics2e-OP_603oHEs.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Microeconomics2e-OP_603oHEs.pdf ; open Microeconomics2e-OP_603oHEs.pdf
         pause
 }
 twentysix(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/OrganizationalBehavior-OP.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/OrganizationalBehavior-OP.pdf ; open OrganizationalBehavior-OP.pdf
         pause
 }
 twentyseven(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf ; open Prealgebra2e-WEB_yC5bGuI.pdf
         pause
 }
 twentyeight(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Precalculus-OP_mbNC8an.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Precalculus-OP_mbNC8an.pdf ; open Precalculus-OP_mbNC8an.pdf
         pause
 }
 twentynine(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Prealgebra2e-WEB_yC5bGuI.pdf ; open Prealgebra2e-WEB_yC5bGuI.pdf
         pause
 }
 thirty(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Psychology-OP_F4YYkDr.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Psychology-OP_F4YYkDr.pdf ; open Psychology-OP_F4YYkDr.pdf
         pause
 }
 thirtyone(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/USHistory-OP_IdjNctE.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/USHistory-OP_IdjNctE.pdf ; open USHistory-OP_IdjNctE.pdf
         pause
 }
 thirtytwo(){
-        open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume1-OP_gUzvYbP.pdf
+        wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume1-OP_gUzvYbP.pdf ; open UniversityPhysicsVolume1-OP_gUzvYbP.pdf
 
         pause
 }
 thirtythree(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume2-OP.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume2-OP.pdf ; open UniversityPhysicsVolume2-OP.pdf
         pause
 }
 thirtyfour(){
-	open https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-OP.pdf
+	wget https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume3-OP.pdf ; open UniversityPhysicsVolume3-OP.pdf
         pause
 }
 thirtyfive(){
-	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/openstax_cli/master/big_dl)" 
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Risingfeanyx/Openstax-Browser/master/big_dl)" 
         pause
 }
 
@@ -171,6 +170,7 @@ show_menus() {
 	clear
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"	
 	echo " Select an OpenStax Book"
+	echo "  CTRL-C to exit "
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo " 1. Algebra and Trigonometry"
 	echo " 2. American Government"
