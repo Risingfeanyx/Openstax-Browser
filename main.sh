@@ -159,7 +159,7 @@ thirtyfour(){
 }
 thirtyfive(){
 
-wget -i -  << EOD
+wget -nc -i  << EOD
 $homeurl/AlgebraAndTrigonometry-OP_1tE6R5r.pdf
 $homeurl/AmericanGovernment2e-OP_WpMZUKx.pdf
 $homeurl/AnatomyandPhysiology-OP_xxKIcSo.pdf
